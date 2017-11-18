@@ -23,5 +23,8 @@ double Pod::get_max_speed()
 }
 
 /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////////
-
+double Pod::get_pressure()
+{
+  return 100;
+}
 /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////////
