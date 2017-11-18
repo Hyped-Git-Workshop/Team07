@@ -10,3 +10,8 @@ double BatteryManagementSystem::get_current()
   return 10;
 }
 /// END OF TASKS 9AB ///////////////////////////////////////////////////////////
+double BatteryManagementSystem::get_voltage()
+{
+  return 5;
+}
+/// END OF TASKS 9AB ///////////////////////////////////////////////////////////
